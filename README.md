@@ -74,7 +74,7 @@ PingMonitor/
    - Thay thông tin bot của bạn vào file `config/config.json`.
 
 2. **Cấu hình danh sách thiết bị giám sát**:
-   - Sửa file `config/hosts.json` hoặc sử dụng **Ứng dụng quản lý file Hosts** để thêm/sửa/xóa thiết bị.
+   - Sửa file `config/hosts.json` hoặc sử dụng ứng dụng **Quản lý file Hosts** để thêm/sửa/xóa thiết bị.
 
 3. **Chạy ứng dụng**:
    - Chạy file `PingMonitor.exe`.
