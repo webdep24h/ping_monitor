@@ -1,0 +1,45 @@
+{
+    "hosts": [
+        {
+            "name": "Router",
+            "ip": "192.168.1.1",
+            "type": "LOCAL",
+            "description": "Default Gateway Router"
+        },
+        {
+            "name": "Server",
+            "ip": "192.168.1.100",
+            "type": "LOCAL",
+            "description": "Local Server"
+        },
+        {
+            "name": "VN_Zing",
+            "ip": "zing.vn",
+            "type": "DOMAIN",
+            "description": "Zing Vietnam Website"
+        },
+        {
+            "name": "QT_Google_DNS",
+            "ip": "8.8.8.8",
+            "type": "PUBLIC",
+            "description": "Google Public DNS"
+        },
+        {
+            "name": "QT_Cloudflare_DNS",
+            "ip": "1.1.1.1",
+            "type": "PUBLIC",
+            "description": "Cloudflare Public DNS"
+        },
+        {
+            "name": "QT_Facebook",
+            "ip": "facebook.com",
+            "type": "DOMAIN",
+            "description": "Facebook Website"
+        }
+    ],
+    "groups": {
+        "LOCAL": "Thiết bị mạng nội bộ",
+        "PUBLIC": "Dịch vụ công cộng quốc tế",
+        "DOMAIN": "Tên miền website"
+    }
+}

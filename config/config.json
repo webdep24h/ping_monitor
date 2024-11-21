@@ -1,0 +1,15 @@
+{
+    "telegram": {
+        "bot_token": "694296941d9:AAGWAB87pk5Af4JiwLGDsiIkGXfpyKQ8Es4",
+        "chat_id": "65220d70785"
+    },
+    "ping": {
+        "interval": 60,
+        "timeout": 5,
+        "retry": 3
+    },
+    "log": {
+        "file": "logs/ping.log",
+        "level": "INFO"
+    }
+}
