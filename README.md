@@ -4,6 +4,8 @@
 
 ## 📂 Cấu trúc Project
 
+
+```plaintext
 ping_monitor/
 ├── src/                 # Mã nguồn chính
 ├── config/              # File cấu hình
@@ -42,7 +44,9 @@ ping_monitor/
 ## Chi tiết triển khai cài đặt
 https://blog.webdep24h.com/2024/11/ping-monitor.html
 
-## [Hướng dẫn sử dụng phần mềm chi tiết dành cho người dùng]
+
+
+# [Hướng dẫn sử dụng phần mềm chi tiết dành cho người dùng]
 
 ---
 
