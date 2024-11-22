@@ -56,7 +56,7 @@ https://blog.webdep24h.com/2024/11/ping-monitor.html
 
 ### 🛠️ Tải xuống và chạy
 
-Download tool tại: [PingMonitorTool](https://github.com/webdep24h/PingMonitorTool/raw/main/PingMonitor.rar)
+Download tool tại: [PingMonitorTool](https://github.com/webdep24h/PingMonitorTool/raw/main/PingMonitor.rar)  ![Download](https://raw.githubusercontent.com/webdep24h/PingMonitorTool/main/images/Download.png)  
 
 ---
 
@@ -79,10 +79,12 @@ PingMonitor/
 1. **Cài đặt Telegram Bot**:
    - Thay thông tin bot của bạn vào file `config/config.json`.
 
+   ![Sửa thông tin file Bot Telegram](https://raw.githubusercontent.com/webdep24h/PingMonitorTool/main/images/ping-bot-telegram.png)  
+
+
 2. **Cấu hình danh sách thiết bị giám sát**:
    - Sửa file `config/hosts.json` hoặc sử dụng ứng dụng **Quản lý file Hosts** để thêm/sửa/xóa thiết bị.
-
-![Sửa thông tin file Bot Telegram](https://raw.githubusercontent.com/webdep24h/PingMonitorTool/main/images/ping-bot-telegram.png)   
+ 
 
 ![Quản lý file Hosts](https://raw.githubusercontent.com/webdep24h/PingMonitorTool/main/images/ping-monitor-1.png)
 
