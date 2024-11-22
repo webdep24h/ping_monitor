@@ -17,7 +17,7 @@ ping_monitor/
 └── requirements.txt     # Dependencies
 ```
 
-## 🚀 Hướng dẫn sử dụng cài đặt triển khai
+## 🚀 Hướng dẫn phát triển ứng dụng
 1. Clone repository
 
 2. **Cài đặt môi trường Python**:
