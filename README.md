@@ -2,6 +2,9 @@
 
 Ứng dụng giám sát ping và gửi thông báo qua Telegram.
 
+![Banner](https://raw.githubusercontent.com/webdep24h/PingMonitorTool/main/images/Ping-monitor-telegram.png)
+
+
 ## 📂 Cấu trúc Project
 
 
@@ -57,6 +60,9 @@ Download tool tại: [PingMonitorTool](https://github.com/webdep24h/PingMonitorT
 
 ---
 
+![Ping](https://raw.githubusercontent.com/webdep24h/PingMonitorTool/main/images/ping-monitor.png)
+
+
 ### 📂 Cấu trúc thư mục
 ```plaintext
 PingMonitor/
@@ -75,6 +81,17 @@ PingMonitor/
 
 2. **Cấu hình danh sách thiết bị giám sát**:
    - Sửa file `config/hosts.json` hoặc sử dụng ứng dụng **Quản lý file Hosts** để thêm/sửa/xóa thiết bị.
+
+![Sửa thông tin file Bot Telegram](https://raw.githubusercontent.com/webdep24h/PingMonitorTool/main/images/ping-bot-telegram.png)   
+
+![Quản lý file Hosts](https://raw.githubusercontent.com/webdep24h/PingMonitorTool/main/images/ping-monitor-1.png)
+
+
+![Chọn file Hosts](https://raw.githubusercontent.com/webdep24h/PingMonitorTool/main/images/ping-monitor-2.png)
+
+
+![Thêm/ Xóa dữ liệu file Hosts](https://raw.githubusercontent.com/webdep24h/PingMonitorTool/main/images/ping-monitor-3.png)
+
 
 3. **Chạy ứng dụng**:
    - Chạy file `PingMonitor.exe`.
