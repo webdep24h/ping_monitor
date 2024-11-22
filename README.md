@@ -56,7 +56,9 @@ https://blog.webdep24h.com/2024/11/ping-monitor.html
 
 ### 🛠️ Tải xuống và chạy
 
-Download tool tại: [PingMonitorTool](https://github.com/webdep24h/PingMonitorTool/raw/main/PingMonitor.rar)  ![Download](https://raw.githubusercontent.com/webdep24h/PingMonitorTool/main/images/Download.png)  
+[![Click để tải](https://raw.githubusercontent.com/webdep24h/PingMonitorTool/main/images/Download.png)](https://github.com/webdep24h/PingMonitorTool/raw/main/PingMonitor.rar)
+
+Download tool tại: [PingMonitorTool](https://github.com/webdep24h/PingMonitorTool/raw/main/PingMonitor.rar)
 
 ---
 
